@@ -8,5 +8,8 @@
     "start": "node prove.js"
   },
   "author": "Mitchell Salyards",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
