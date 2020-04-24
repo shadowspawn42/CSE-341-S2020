@@ -5,7 +5,7 @@
   "main": "prove.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node prove.js"
+    "start": "nodemon prove.js"
   },
   "author": "Mitchell Salyards",
   "license": "ISC",
