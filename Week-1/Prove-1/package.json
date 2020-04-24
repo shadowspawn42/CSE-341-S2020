@@ -1,0 +1,12 @@
+{
+  "name": "prove-1",
+  "version": "1.0.0",
+  "description": "Prove 1 for CSE 341",
+  "main": "prove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "prove.js"
+  },
+  "author": "Mitchell Salyards",
+  "license": "ISC"
+}
